@@ -13,10 +13,9 @@ GameObject:
   - component: {fileID: -3652043173404812813}
   - component: {fileID: -1001165675231491560}
   - component: {fileID: 1049740846}
-  - component: {fileID: 1049740847}
   m_Layer: 11
   m_Name: Enemy_Projectile
-  m_TagString: Untagged
+  m_TagString: Projectile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -136,16 +135,3 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damage: 10
---- !u!114 &1049740847
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2344706640531519893}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e943b630ea7b7b140ab37ad6bef08d11, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  timeDestroy: 1
