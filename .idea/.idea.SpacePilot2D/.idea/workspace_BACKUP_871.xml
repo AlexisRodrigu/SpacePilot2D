@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f6cdb86-ceb7-4478-844b-9adeae8dcd43" name="Default Changelist" comment="">
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemies/ScriptableObjectsEnemies/WaveConfigEnemyCrashed.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemies/ScriptableObjectsEnemies/WaveConfigEnemyCrashed.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Enemy_Fire.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Enemy_Fire.prefab.meta" beforeDir="false" />
+>>>>>>> 4edf2b9... Se agrego el GO que hace spawneo de los enemigos, firingGO del enemigo y los scripts del projectil enemigo
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyFollowPath.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BackgroundScroller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemies/WaveConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Projectile/DamageProjectile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyProjectileScripts/DamageToPlayerProjectile.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Player_Movement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Player_Fire.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ProjectileLifeTime.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BackgroundScroller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Player_Life.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemies/WaveConfiguration.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Projectile/DamageProjectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemies/EnemySpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyFollowPath.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyFire.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyProjectileScripts/Projectile_EnemyLifeTime.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyProjectileScripts/DamageToPlayerProjectile.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l2Qh0trJCnvlw8XiVcauuzh5y6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="do_not_show_solution_notification" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f6cdb86-ceb7-4478-844b-9adeae8dcd43" name="Default Changelist" comment="" />
+      <created>1606792827950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606792827950</updated>
+      <workItem from="1606792875210" duration="7857000" />
+      <workItem from="1606805809767" duration="1855000" />
+      <workItem from="1606880512489" duration="5119000" />
+      <workItem from="1607147012568" duration="2000" />
+      <workItem from="1607660449139" duration="1317000" />
+      <workItem from="1607970063572" duration="4574000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="256" key="#Notifications" timestamp="1606881184182">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="517" y="256" key="#Notifications/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1606881184182" />
+    <state x="277" y="77" key="SettingsEditor" timestamp="1606802642511">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="77" key="SettingsEditor/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1606802642511" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1606801290478">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1606801290478" />
+    <state x="2458" y="226" width="672" height="678" key="search.everywhere.popup" timestamp="1607972392420">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="430" y="181" key="search.everywhere.popup/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1606802664771" />
+    <state x="2458" y="226" width="672" height="678" key="search.everywhere.popup/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1607972392420" />
+  </component>
+</project>
