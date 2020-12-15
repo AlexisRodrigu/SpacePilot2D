@@ -60,6 +60,7 @@ GameObject:
   - component: {fileID: 1454655946352460204}
   - component: {fileID: 3307594775294763874}
   - component: {fileID: 583294629}
+  - component: {fileID: -547115557375449244}
   m_Layer: 9
   m_Name: Enemy_Shooting
   m_TagString: Enemy
@@ -163,3 +164,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _waveConfiguration: {fileID: 11400000, guid: 5e054111ce459ff4fa03ef2d8a423804, type: 2}
   waypointTransforms: []
+--- !u!114 &-547115557375449244
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9222266898932784879}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c02477219ad7994f9dd0b92e5c1b540, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  healthEnemy: 10
+  scoreValue: 10
