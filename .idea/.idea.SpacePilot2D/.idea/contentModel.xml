@@ -17,6 +17,8 @@
               <e p="Projectile_EnemyCollisionDestroy.cs" t="Include" />
             </e>
             <e p="EnemySpawner.cs" t="Include" />
+            <e p="MeteoriteGenerator.cs" t="Include" />
+            <e p="MeteoriteLife.cs" t="Include" />
             <e p="WaveConfiguration.cs" t="Include" />
           </e>
           <e p="GameManager.cs" t="Include" />

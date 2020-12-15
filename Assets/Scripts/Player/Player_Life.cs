@@ -6,7 +6,7 @@ using UnityEngine;
 public class Player_Life : MonoBehaviour
 {
     [SerializeField] private float lifePlayer;
-    private float initialLife = 1000.0f;
+    [SerializeField] private float initialLife = 1000.0f;
     void Start()
     {
         lifePlayer = initialLife;
