@@ -7,8 +7,7 @@ using UnityEngine;
 public class Player_Movement : MonoBehaviour
 {
     #region Variables para el limite de la camara
-
-    [SerializeField] private float padding = 1.0f;
+    
     private Camera _camera;
     private float min_x;
     private float max_x;

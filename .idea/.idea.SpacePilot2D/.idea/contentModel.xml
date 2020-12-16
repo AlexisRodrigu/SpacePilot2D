@@ -9,16 +9,21 @@
         <e p="Scripts" t="Include">
           <e p="BackgroundScroller.cs" t="Include" />
           <e p="Enemies" t="Include">
-            <e p="EnemyFollowPath.cs" t="Include" />
-            <e p="EnemyLife.cs" t="Include" />
+            <e p="Enemy_Meteorites" t="Include">
+              <e p="MeteoriteLife.cs" t="Include" />
+              <e p="MeteoriteSpawn.cs" t="Include" />
+              <e p="WaveConfiguration_Meteorite.cs" t="Include" />
+            </e>
+            <e p="Enemy_Ships" t="Include">
+              <e p="EnemyFollowPath.cs" t="Include" />
+              <e p="EnemyLife.cs" t="Include" />
+              <e p="EnemySpawner.cs" t="Include" />
+            </e>
             <e p="EnemyProjectileScripts" t="Include">
               <e p="DamageToPlayerProjectile.cs" t="Include" />
               <e p="EnemyFire.cs" t="Include" />
               <e p="Projectile_EnemyCollisionDestroy.cs" t="Include" />
             </e>
-            <e p="EnemySpawner.cs" t="Include" />
-            <e p="MeteoriteGenerator.cs" t="Include" />
-            <e p="MeteoriteLife.cs" t="Include" />
             <e p="WaveConfiguration.cs" t="Include" />
           </e>
           <e p="GameManager.cs" t="Include" />
