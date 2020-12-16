@@ -27,6 +27,10 @@
             <e p="WaveConfiguration.cs" t="Include" />
           </e>
           <e p="GameManager.cs" t="Include" />
+          <e p="Items" t="Include">
+            <e p="HealthSpawn.cs" t="Include" />
+            <e p="ItemHealth.cs" t="Include" />
+          </e>
           <e p="Player" t="Include">
             <e p="Player_Fire.cs" t="Include" />
             <e p="Player_Life.cs" t="Include" />
